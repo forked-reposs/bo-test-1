@@ -30,4 +30,6 @@ public class Squashing2 {
   public int hashCode() {
     return Objects.hash(string1, string2);
   }
+
+  //comment222
 }
